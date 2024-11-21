@@ -1,0 +1,29 @@
+/* Стили для обычной кнопки */
+.btnPrimary {
+    background: linear-gradient(90deg, #36b8f4, #3328c6); /* Градиент зеленого цвета */
+    color: white;
+    padding: 12px 24px;
+    margin: 10px 5px;
+    border: none;
+    border-radius: 25px; /* Закругленные углы */
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease; /* Плавная анимация */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btnPrimary:disabled {
+    filter: grayscale(100%);
+}
+
+/* Эффект при наведении на кнопку */
+.btnPrimary:hover {
+    transform: translateY(-2px); /* Поднятие кнопки вверх при наведении */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Увеличение тени */
+}
+
+/* Эффект при нажатии на кнопку */
+.btnPrimary:active {
+    transform: translateY(0); /* Возврат кнопки на место */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Возврат к исходной тени */
+}
