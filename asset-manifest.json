@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UsuePractice/static/css/main.22e37246.css",
-    "main.js": "/UsuePractice/static/js/main.79c00c12.js",
+    "main.js": "/UsuePractice/static/js/main.e09b79ee.js",
     "static/media/3.png": "/UsuePractice/static/media/3.07e2949cfba0769b5785.png",
     "static/media/5.png": "/UsuePractice/static/media/5.552b4f9a3bbeadf92262.png",
     "static/media/7.png": "/UsuePractice/static/media/7.8200be329f6874c21489.png",
@@ -9,16 +9,17 @@
     "static/media/4.png": "/UsuePractice/static/media/4.6284fd592f6cf640e93f.png",
     "static/media/1.png": "/UsuePractice/static/media/1.71558409f45d39ebdcae.png",
     "static/media/2.png": "/UsuePractice/static/media/2.ba7c8d524856a2516796.png",
+    "static/media/9.png": "/UsuePractice/static/media/9.71fde31913534b3bb785.png",
     "static/media/practice.png": "/UsuePractice/static/media/practice.bd365130520e14d4aa66.png",
     "static/media/6.png": "/UsuePractice/static/media/6.b430685be9888d5d7b9f.png",
     "static/media/8.png": "/UsuePractice/static/media/8.5bdb4be86f7fbfddef0b.png",
     "static/media/personal_practice_list.png": "/UsuePractice/static/media/personal_practice_list.c1a9dad4ae0d9e3fde55.png",
     "index.html": "/UsuePractice/index.html",
     "main.22e37246.css.map": "/UsuePractice/static/css/main.22e37246.css.map",
-    "main.79c00c12.js.map": "/UsuePractice/static/js/main.79c00c12.js.map"
+    "main.e09b79ee.js.map": "/UsuePractice/static/js/main.e09b79ee.js.map"
   },
   "entrypoints": [
     "static/css/main.22e37246.css",
-    "static/js/main.79c00c12.js"
+    "static/js/main.e09b79ee.js"
   ]
 }
