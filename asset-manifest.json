@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/UsuePractice/static/css/main.22e37246.css",
-    "main.js": "/UsuePractice/static/js/main.1be40614.js",
+    "main.css": "/UsuePractice/static/css/main.a357a6da.css",
+    "main.js": "/UsuePractice/static/js/main.0c043505.js",
     "static/media/3.png": "/UsuePractice/static/media/3.07e2949cfba0769b5785.png",
     "static/media/5.png": "/UsuePractice/static/media/5.552b4f9a3bbeadf92262.png",
     "static/media/7.png": "/UsuePractice/static/media/7.8200be329f6874c21489.png",
@@ -15,11 +15,11 @@
     "static/media/8.png": "/UsuePractice/static/media/8.5bdb4be86f7fbfddef0b.png",
     "static/media/personal_practice_list.png": "/UsuePractice/static/media/personal_practice_list.c1a9dad4ae0d9e3fde55.png",
     "index.html": "/UsuePractice/index.html",
-    "main.22e37246.css.map": "/UsuePractice/static/css/main.22e37246.css.map",
-    "main.1be40614.js.map": "/UsuePractice/static/js/main.1be40614.js.map"
+    "main.a357a6da.css.map": "/UsuePractice/static/css/main.a357a6da.css.map",
+    "main.0c043505.js.map": "/UsuePractice/static/js/main.0c043505.js.map"
   },
   "entrypoints": [
-    "static/css/main.22e37246.css",
-    "static/js/main.1be40614.js"
+    "static/css/main.a357a6da.css",
+    "static/js/main.0c043505.js"
   ]
 }
