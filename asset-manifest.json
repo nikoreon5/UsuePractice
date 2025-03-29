@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UsuePractice/static/css/main.a1738763.css",
-    "main.js": "/UsuePractice/static/js/main.0f024333.js",
+    "main.js": "/UsuePractice/static/js/main.758e4118.js",
     "static/media/me.jpg": "/UsuePractice/static/media/me.6c3dc58a3cb5e12b1139.jpg",
     "static/media/tg.png": "/UsuePractice/static/media/tg.56302062aff69dbcf86e.png",
     "static/media/3.png": "/UsuePractice/static/media/3.07e2949cfba0769b5785.png",
     "static/media/5.png": "/UsuePractice/static/media/5.552b4f9a3bbeadf92262.png",
     "static/media/7.png": "/UsuePractice/static/media/7.8200be329f6874c21489.png",
     "static/media/main.png": "/UsuePractice/static/media/main.180fb50c60a4c9cb1efc.png",
-    "static/media/4.png": "/UsuePractice/static/media/4.6284fd592f6cf640e93f.png",
     "static/media/1.png": "/UsuePractice/static/media/1.71558409f45d39ebdcae.png",
+    "static/media/4.png": "/UsuePractice/static/media/4.6284fd592f6cf640e93f.png",
     "static/media/2.png": "/UsuePractice/static/media/2.ba7c8d524856a2516796.png",
     "static/media/9.png": "/UsuePractice/static/media/9.71fde31913534b3bb785.png",
     "static/media/practice.png": "/UsuePractice/static/media/practice.bd365130520e14d4aa66.png",
@@ -18,10 +18,10 @@
     "static/media/personal_practice_list.png": "/UsuePractice/static/media/personal_practice_list.c1a9dad4ae0d9e3fde55.png",
     "index.html": "/UsuePractice/index.html",
     "main.a1738763.css.map": "/UsuePractice/static/css/main.a1738763.css.map",
-    "main.0f024333.js.map": "/UsuePractice/static/js/main.0f024333.js.map"
+    "main.758e4118.js.map": "/UsuePractice/static/js/main.758e4118.js.map"
   },
   "entrypoints": [
     "static/css/main.a1738763.css",
-    "static/js/main.0f024333.js"
+    "static/js/main.758e4118.js"
   ]
 }
