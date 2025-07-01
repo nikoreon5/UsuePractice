@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UsuePractice/static/css/main.8dfe7988.css",
-    "main.js": "/UsuePractice/static/js/main.7a3fb9d4.js",
+    "main.js": "/UsuePractice/static/js/main.3f23c51a.js",
     "static/media/5.png": "/UsuePractice/static/media/5.552b4f9a3bbeadf92262.png",
     "static/media/me.jpg": "/UsuePractice/static/media/me.6c3dc58a3cb5e12b1139.jpg",
     "static/media/tg.png": "/UsuePractice/static/media/tg.56302062aff69dbcf86e.png",
@@ -18,10 +18,10 @@
     "static/media/personal_practice_list.png": "/UsuePractice/static/media/personal_practice_list.c1a9dad4ae0d9e3fde55.png",
     "index.html": "/UsuePractice/index.html",
     "main.8dfe7988.css.map": "/UsuePractice/static/css/main.8dfe7988.css.map",
-    "main.7a3fb9d4.js.map": "/UsuePractice/static/js/main.7a3fb9d4.js.map"
+    "main.3f23c51a.js.map": "/UsuePractice/static/js/main.3f23c51a.js.map"
   },
   "entrypoints": [
     "static/css/main.8dfe7988.css",
-    "static/js/main.7a3fb9d4.js"
+    "static/js/main.3f23c51a.js"
   ]
 }
